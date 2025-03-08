@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refrences</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .category { margin-top: 20px; }
+        .category h2 { background: #f4f4f4; padding: 10px; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 20px 0; }
+        a { text-decoration: none; color: blue; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>My link Hub</h1>
+    
+    <div class="category">
+        <h2>References</h2>
+        <ul>
+            <li><a href="https://ieeexplore.ieee.org/document/6481427" target="_blank">Hui, S. Y. R. (2013). "Planar Wireless Charging Technology for Portable Electronic Products and Qi." Proceedings of the IEEE, 101(6), 1290-1301.</a></li>
+            
+            <li><a href="https://www.science.org/doi/10.1126/science.1143254" target="_blank">Kurs, A., Karalis, A., Moffatt, R., Joannopoulos, J. D., Fisher, P., & Soljačić, M. (2007). "Wireless Power Transfer via Strongly Coupled Magnetic Resonances." Science, 317(5834), 83-86.</a></li>
+            
+            <li><a href="https://ieeexplore.ieee.org/document/7152988" target="_blank">Zhang, W., & Mi, C. C. (2016). "Compensation Topologies of High-Power Wireless Power Transfer Systems." IEEE Transactions on Vehicular Technology, 65(6), 4768-4778.</a></li>
+            
+            <li><a href="https://ieeexplore.ieee.org/document/8437240" target="_blank">Zhou, J., Zhang, B., Xiao, W., Qiu, D., & Chen, Y. (2018). "Nonlinear Parity-Time-Symmetric Model for Constant Efficiency Wireless Power Transfer: Application to a Drone-in-Flight Wireless Charging Platform." IEEE Transactions on Industrial Electronics, 66(5), 4097-4107.</a></li>
+        </ul>
+    </div>
+</body>
+</html>
